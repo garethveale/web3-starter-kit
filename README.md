@@ -1,8 +1,6 @@
 # `web3 starter kit`
 
-This a simple and limited web3 starter kit to kickstart web3 projects.
-
-`yarn install` to install dependencies + `yarn dev` to fire up the NextJS application.
+This a simple and limited web3 starter kit to kickstart web3 projects, I've included a few packages that will bootstrap you into working with Ethereum straight away (Wagmi + Ethers), this is ideal for launching dapps quickly!
 
 ![Screenshot 2022-10-14 at 09 04 52](https://user-images.githubusercontent.com/35449333/195795305-5880473f-52ee-4eb1-98a8-56791b679077.png)
 
