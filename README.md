@@ -1,17 +1,38 @@
-# web3-starter-kit
+# `web3 starter kit`
 
 This a simple and limited web3 starter kit to kickstart web3 projects.
 
 `yarn install` to install dependencies + `yarn dev` to fire up the NextJS application.
 
-# Packages
+![Screenshot 2022-10-14 at 09 04 52](https://user-images.githubusercontent.com/35449333/195795305-5880473f-52ee-4eb1-98a8-56791b679077.png)
 
-**NextJs** - as you know, [=)](https://nextjs.org/).
+# 🤝 `Packages`
 
-**RainbowKit** - package that offers the connection of some popular wallets with just a few lines of code, check out the [docs](https://www.rainbowkit.com/docs/introduction).
+**NextJs** - Super duper react framework [docs](https://nextjs.org/).
 
-**Ethers** - npm package for accessing / interacting with ethereum and the ethereum ecosystem, check out the [docs](https://docs.ethers.io/v5/).
+**RainbowKit** - Package that offers connection to popular wallets with just a few lines of code (e.g. Metamask), check out the [docs](https://www.rainbowkit.com/docs/introduction).
 
-**tailwindcss** - css library, i'm sure you're familiar, if you're not I highly recommend you get to know =], [here](https://tailwindui.com/documentation)
+**Ethers** - NPM package for accessing / interacting with ethereum and the ethereum ecosystem, check out the [docs](https://docs.ethers.io/v5/).
 
-**wagmi** - web3 react hooks for accessing a bunch of important web3 features, check out the [docs](https://wagmi.sh/).
+**tailwindcss** - CSS library [here](https://tailwindui.com/documentation)
+
+**wagmi** - Insanely good Web3 react hooks for accessing a bunch of important web3 features, very good at abstracting a bunch of stuff away, check out the [docs](https://wagmi.sh/).
+
+# 🚀 `Quick Start`
+
+Get started by cloning, installing dependencies, and running your next app with the below:
+
+```
+git clone https://github.com/0xgareth/web3-starter-kit.git
+
+yarn install
+
+yarn dev
+```
+
+# 🤝 `Need help?`
+
+If you need help with this starter kit or have any questions about web3 dev hit me up on [Twitter](https://twitter.com/gareth_______).
+
+Enjoy!
+
