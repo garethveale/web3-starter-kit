@@ -8,9 +8,9 @@ This a simple and limited web3 starter kit to kickstart web3 projects, I've incl
 
 **NextJs** - Super duper react framework [docs](https://nextjs.org/).
 
-**RainbowKit** - Package that offers connection to popular wallets with just a few lines of code (e.g. Metamask), check out the [docs](https://www.rainbowkit.com/docs/introduction).
+**RainbowKit** - Offers connection to popular wallets with just a few lines of code (e.g. Metamask), check out the [docs](https://www.rainbowkit.com/docs/introduction).
 
-**Ethers** - NPM package for accessing / interacting with ethereum and the ethereum ecosystem, check out the [docs](https://docs.ethers.io/v5/).
+**Ethers** - For accessing / interacting with ethereum and the ethereum ecosystem, check out the [docs](https://docs.ethers.io/v5/).
 
 **tailwindcss** - CSS library [here](https://tailwindui.com/documentation)
 
