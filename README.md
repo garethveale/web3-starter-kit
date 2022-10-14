@@ -4,7 +4,7 @@ This a simple and limited web3 starter kit to kickstart web3 projects, I've incl
 
 ![Screenshot 2022-10-14 at 09 04 52](https://user-images.githubusercontent.com/35449333/195795305-5880473f-52ee-4eb1-98a8-56791b679077.png)
 
-# 🤝 `Packages`
+# ⚙️ `Packages`
 
 **NextJs** - Super duper react framework [docs](https://nextjs.org/).
 
